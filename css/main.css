@@ -46,3 +46,7 @@ a {
   margin-top: auto;
   padding: .6em;
 }
+
+img {
+  width: 100%;
+}

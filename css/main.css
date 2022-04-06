@@ -41,3 +41,7 @@ a {
   color: #fff;
   background-color: #623b0c;
   text-decoration: none;
+  justify-content: space-between;
+  margin-top: auto;
+  padding: .6em;
+}

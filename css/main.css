@@ -31,6 +31,7 @@ ol {
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
   list-style: none;
+border-radius: 8px;
   padding-top: .6em;
   margin: .3em;
   padding-left: 0;

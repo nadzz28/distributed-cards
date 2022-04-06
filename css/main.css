@@ -41,6 +41,7 @@ a {
   color: #fff;
   background-color: #623b0c;
   text-decoration: none;
+   border-radius: 8px;
   justify-content: space-between;
   margin-top: auto;
   padding: .6em;

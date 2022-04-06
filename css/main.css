@@ -41,6 +41,10 @@ li {
   display: flex;
   border: 2px solid #623b0c;
   flex-direction: column;
+  padding: 1em;
+  border-radius: 8px;
+  background-color: #ede3db;
+}
 
 a {
   color: #fff;

@@ -36,3 +36,8 @@ ol {
   margin: .3em;
   padding-left: 0;
 }
+
+a {
+  color: #fff;
+  background-color: #623b0c;
+  text-decoration: none;
